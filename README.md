@@ -2,7 +2,7 @@
 - 👀 I’m interested in web/app development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://in.linkedin.com/in/sonu-sahu-nayagaon
 
 <!---
 SONUSAHUNAYAGAON/SONUSAHUNAYAGAON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
