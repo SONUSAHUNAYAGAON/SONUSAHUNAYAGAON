@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SONUSAHUNAYAGAON
 - 👀 I’m interested in web/app development
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning mern stack  & TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://in.linkedin.com/in/sonu-sahu-nayagaon
 
